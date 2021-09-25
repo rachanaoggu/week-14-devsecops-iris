@@ -40,3 +40,4 @@ def retrain(data):
 
     # fit the classifier again based on the new data obtained
     clf.fit(X, y)
+
